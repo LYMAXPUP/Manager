@@ -1,4 +1,4 @@
-# Manager
+# Asset Manager
 demo - 资产管理系统
 
 Tomcat本地部署，Vue + Servlet + jdbc
